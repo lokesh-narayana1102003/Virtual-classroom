@@ -1,7 +1,7 @@
 # Virtual-classroom
 TECHNICAL DESCRIPTION :
 Front-End accepts the room code with which the student can join the classroom. 
-Front end is built using React JS. 
+Front end is built using HTML and CSS. 
 Back end is done using Node JS and connection is done using Express JS. 
 The whole Web Application is developed using Socket io and WebRTC. 
 
